@@ -8,7 +8,7 @@ You will be working in a Jupyter Notebook in a GitHub Codespace throughout this 
 
 Navigate to [this](https://github.com/codespaces/new/mongodb-developer/ai-agents-tutorial?quickstart=1) link. You will be prompted to sign into GitHub if you haven't already. Once signed in, click the **Create new codespace** button to create a new codespace.
 
-![screenshot]("screenshots/create-codespace.png")
+![screenshot]("/screenshots/create-codespace.png")
 
 Let it run for a few seconds as it prepares your environment. It will clone the repository, prepare the container, and run the installation scripts. Once the environment is built, you should see a list of files appear under the Explorer. 
 
